@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import React from 'react';
 FullName.defaultProps = {FirstName : 'Name', LastName : 'LastName'};
@@ -8,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <FullName FirstName = 'Daniel' LastName = 'Mykytiuk'/>
-      <PhoneNumber PhoneNumber = '+380970185531'/>
+      <PhoneNumber PhoneNumber = '+3809701855**'/>
       <MailAdress MailAdress = 'dani4ku@gmail.com'/>
       <MyGitHub Github = 'https://github.com/DanielMikitiuk'/>
     </div>
